@@ -1,0 +1,99 @@
+.anim.main{
+    transform: translateX(-20%);
+    transition: all 2s;
+    opacity: 0;
+}
+.anim.main.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+.anim.os{
+    transform: translateY(-70%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.os.active{
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.energ-t{
+    transform: translateX(-20%);
+    transition: all 2s;
+    opacity: 0;
+
+}
+.anim.energ-t.active{
+    transform: translateX(0);
+    opacity: 1;
+
+}
+
+.anim.one{
+    transform: translateX(-60%);
+    transition: all 1s;
+    opacity: 0;
+}
+.anim.one.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+.anim.two{
+    transform: translateX(60%);
+    transition: all 1s;
+    opacity: 0;
+}
+.anim.two.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.anim.energ-div{
+    transform: translateX(-20%);
+    transition: all 1s;
+    opacity: 0;
+}
+.anim.energ-div.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.anim.energ-t1{
+    transform: translateX(20%);
+    transition: all 1s;
+    opacity: 0;
+
+}
+.anim.energ-t1.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.anim.ind{
+    transform: translateX(20%);
+    transition: all 1s;
+    opacity: 0;
+}
+.anim.ind.active{
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.anim.avi{
+    transform: translateY(-20%);
+    transition: all 1s;
+    opacity: 0;
+}
+.anim.avi.active{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.anim.spa{
+    transform: translateY(50%);
+    transition: all 1s;
+    opacity: 0;
+}
+.anim.spa.active{
+    transform: translateY(0);
+    opacity: 1;
+}
